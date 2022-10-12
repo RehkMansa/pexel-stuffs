@@ -3325,6 +3325,11 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-pixelate@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/react-pixelate/-/react-pixelate-0.0.1.tgz#fc3b8a1be220605ea8b3a994ff002b3017022b09"
+  integrity sha512-g/kV87lI6bjofrUb+KGFW5WsTIjQAcptJhe4JbXW/BhaPoKGepV4/P2gLrg7ifhAcXoH+t62pOq21bbU39V6Mg==
+
 react-refresh@^0.14.0:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
